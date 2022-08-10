@@ -6,7 +6,7 @@ p {
 body {
   margin: 0;
   padding: 0;
-  background-color: #f21b3f;
+  background-color: #53687e;
 }
 .main {
   margin: auto 20%;
@@ -37,7 +37,7 @@ body {
   padding: 20px 20px;
   font-size: 18px;
   border-radius: 10px;
-  border: 1px solid #e92647;
+  border: 1px solid #53687e;
   /* background-color: #e92646; */
 }
 
@@ -53,5 +53,5 @@ body {
   cursor: pointer;
   color: #303030;
   background-color: #fff;
-  border: 1px solid #e92646;
+  border: 1px solid #53687e;
 }
