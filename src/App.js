@@ -17,11 +17,7 @@ export default function App() {
           </p>
         </div>
         <div>
-          <input
-            type="text"
-            placeholder="Email address"
-            style={{ color: '#f0f0f0' }}
-          />
+          <input type="text" placeholder="Email address" />
           <button type="submit">Sign Up</button>
         </div>
         {/* social icons */}

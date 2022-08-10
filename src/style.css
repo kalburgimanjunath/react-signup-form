@@ -39,6 +39,10 @@ body {
   border-radius: 10px;
   border: 1px solid #53687e;
   /* background-color: #e92646; */
+  color: '#303030';
+}
+.container input {
+  color: #303030;
 }
 
 .container input:hover,
@@ -46,6 +50,7 @@ body {
 .container input:visited,
 .container input:focus {
   outline: none;
+  color: #303030;
 }
 
 .container button {
